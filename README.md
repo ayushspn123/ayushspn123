@@ -3,7 +3,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushspn123" alt="ayushspn123" /></a> </p>
 
-- 🔭 I’m currently working on **React**  **Node**  **NextJs**  **TypeScript**  **MongoDB** 
+- 🔭 I’m currently working on **React**  **Node**  **NextJs**  **TypeScript**  **MongoDB**
+- - 🔭 I’m currently working As a **FULL Stack Developer**
+  - Also we can Talk About **AI And Automation Models**
+
 
 - 👯 I’m looking to collaborate on **JavaScript Projects**
 
