@@ -8,9 +8,10 @@
   - Also we can Talk About **AI And Automation Models**
 
 
-- 👯 I’m looking to collaborate on **JavaScript Projects**
+- 👯 I’m looking to collaborate on **JavaScript And TypeScript Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ayushspn123](https://github.com/ayushspn123)
+-  Visit PortFolio:  https://v0-software-engineer-portfolio-jbmayu.vercel.app/
 
 - 💬 Ask me about **Java Script** **typeScript**
 
