@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 240" width="100%" height="auto" fill="none">
+<defs><style>
+@keyframes drawLine { 0% { stroke-dashoffset: 2000; opacity: 0; } 10% { opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 1; } }
+@keyframes areaFade { 0% { opacity: 0; } 100% { opacity: 1; } }
+@keyframes dotPop { 0% { transform: scale(0); opacity:0;} 100% { transform: scale(1); opacity:1;} }
+.flow-line { stroke-dasharray: 2000; stroke-dashoffset: 2000; animation: drawLine 1.8s cubic-bezier(.3,.8,.3,1) forwards; }
+.flow-area { opacity: 0; animation: areaFade 1.4s ease-out 0.6s forwards; }
+.flow-dot { transform-box: fill-box; transform-origin: center; opacity:0; animation: dotPop 0.35s ease-out forwards; }
+</style>
+<linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#7c9cff" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#7c9cff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect width="890" height="240" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="34" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">Activity &amp; Contribution Flow</text>
+<text x="24" y="52" fill="#6e7681" font-family="monospace" font-size="10.5">Nov 2023 — Present · Xcelore Pvt Ltd</text>
+<line x1="24" y1="76.0" x2="866" y2="76.0" stroke="#21262d" stroke-width="1"/>
+<line x1="24" y1="138.0" x2="866" y2="138.0" stroke="#21262d" stroke-width="1"/>
+<line x1="24" y1="200.0" x2="866" y2="200.0" stroke="#21262d" stroke-width="1"/>
+<path class="flow-area" d="M 24.0,162.8 L 60.6,156.6 L 97.2,150.4 L 133.8,152.9 L 170.4,144.2 L 207.0,131.8 L 243.7,125.6 L 280.3,128.1 L 316.9,119.4 L 353.5,113.2 L 390.1,115.7 L 426.7,107.0 L 463.3,100.8 L 499.9,103.3 L 536.5,94.6 L 573.1,88.4 L 609.7,90.9 L 646.3,82.2 L 683.0,85.9 L 719.6,78.5 L 756.2,76.0 L 792.8,81.0 L 829.4,88.4 L 866.0,94.6 L 866.0,200 L 24.0,200 Z" fill="url(#areaGrad)"/>
+<path class="flow-line" d="M 24.0,162.8 L 60.6,156.6 L 97.2,150.4 L 133.8,152.9 L 170.4,144.2 L 207.0,131.8 L 243.7,125.6 L 280.3,128.1 L 316.9,119.4 L 353.5,113.2 L 390.1,115.7 L 426.7,107.0 L 463.3,100.8 L 499.9,103.3 L 536.5,94.6 L 573.1,88.4 L 609.7,90.9 L 646.3,82.2 L 683.0,85.9 L 719.6,78.5 L 756.2,76.0 L 792.8,81.0 L 829.4,88.4 L 866.0,94.6" fill="none" stroke="#7c9cff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle class="flow-dot" style="animation-delay:1.40s" cx="207.0" cy="131.8" r="5" fill="#0d1117" stroke="#7c9cff" stroke-width="2.5"/>
+<circle class="flow-dot" style="animation-delay:1.64s" cx="426.7" cy="107.0" r="5" fill="#0d1117" stroke="#7c9cff" stroke-width="2.5"/>
+<circle class="flow-dot" style="animation-delay:1.80s" cx="573.1" cy="88.4" r="5" fill="#0d1117" stroke="#7c9cff" stroke-width="2.5"/>
+<circle class="flow-dot" style="animation-delay:2.00s" cx="756.2" cy="76.0" r="5" fill="#0d1117" stroke="#7c9cff" stroke-width="2.5"/>
+</svg>

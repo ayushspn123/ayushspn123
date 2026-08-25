@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 400" width="100%" height="auto" fill="none">
+<defs><style>
+@keyframes radarExpand { 0% { transform: scale(0.1); opacity: 0; } 70% { transform: scale(1.04); opacity: 0.95; } 100% { transform: scale(1); opacity: 1; } }
+@keyframes vertexPop { 0% { transform: scale(0); opacity: 0; } 100% { transform: scale(1); opacity: 1; } }
+@keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
+.radar-fill { transform-origin: 300px 215px; animation: radarExpand 1.1s cubic-bezier(.2,.9,.3,1) forwards; }
+@keyframes barGrow { 0% { transform: scaleX(0); opacity: 0; } 100% { transform: scaleX(1); opacity: 1; } }
+.bar-fill { transform-box: fill-box; transform-origin: left center; animation: barGrow 0.7s ease-out forwards; opacity: 0; }
+.vertex { transform-box: fill-box; transform-origin: center; animation: vertexPop 0.4s ease-out forwards; opacity: 0; }
+.v-0 { animation-delay: 0.90s; }
+.v-1 { animation-delay: 0.98s; }
+.v-2 { animation-delay: 1.06s; }
+.v-3 { animation-delay: 1.14s; }
+.v-4 { animation-delay: 1.22s; }
+.v-5 { animation-delay: 1.30s; }
+.label { animation: fadeIn 0.6s ease-out forwards; opacity: 0; }
+.l-0 { animation-delay: 1.00s; }
+.l-1 { animation-delay: 1.06s; }
+.l-2 { animation-delay: 1.12s; }
+.l-3 { animation-delay: 1.18s; }
+.l-4 { animation-delay: 1.24s; }
+.l-5 { animation-delay: 1.30s; }
+</style>
+<radialGradient id="radarBg" cx="50%" cy="50%" r="60%"><stop offset="0%" stop-color="#161b22"/><stop offset="100%" stop-color="#0d1117"/></radialGradient>
+</defs>
+<rect width="940" height="400" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="24" y="34" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">Technical Capability &amp; Skills Radar</text>
+<polygon points="300.0,182.5 328.1,198.8 328.1,231.2 300.0,247.5 271.9,231.2 271.9,198.8" fill="none" stroke="#30363d" stroke-width="1"/>
+<polygon points="300.0,150.0 356.3,182.5 356.3,247.5 300.0,280.0 243.7,247.5 243.7,182.5" fill="none" stroke="#30363d" stroke-width="1"/>
+<polygon points="300.0,117.5 384.4,166.2 384.4,263.8 300.0,312.5 215.6,263.8 215.6,166.3" fill="none" stroke="#30363d" stroke-width="1"/>
+<polygon points="300.0,85.0 412.6,150.0 412.6,280.0 300.0,345.0 187.4,280.0 187.4,150.0" fill="none" stroke="#30363d" stroke-width="1"/>
+<line x1="300" y1="215" x2="300.0" y2="85.0" stroke="#21262d" stroke-width="1"/>
+<line x1="300" y1="215" x2="412.6" y2="150.0" stroke="#21262d" stroke-width="1"/>
+<line x1="300" y1="215" x2="412.6" y2="280.0" stroke="#21262d" stroke-width="1"/>
+<line x1="300" y1="215" x2="300.0" y2="345.0" stroke="#21262d" stroke-width="1"/>
+<line x1="300" y1="215" x2="187.4" y2="280.0" stroke="#21262d" stroke-width="1"/>
+<line x1="300" y1="215" x2="187.4" y2="150.0" stroke="#21262d" stroke-width="1"/>
+<polygon class="radar-fill" points="300.0,91.5 403.6,155.2 387.8,265.7 300.0,306.0 223.4,259.2 207.7,161.7" fill="#7c9cff" fill-opacity="0.25" stroke="#7c9cff" stroke-width="2"/>
+<circle class="vertex v-0" cx="300.0" cy="91.5" r="4" fill="#7c9cff" stroke="#0d1117" stroke-width="1.5"/>
+<circle class="vertex v-1" cx="403.6" cy="155.2" r="4" fill="#7c9cff" stroke="#0d1117" stroke-width="1.5"/>
+<circle class="vertex v-2" cx="387.8" cy="265.7" r="4" fill="#7c9cff" stroke="#0d1117" stroke-width="1.5"/>
+<circle class="vertex v-3" cx="300.0" cy="306.0" r="4" fill="#7c9cff" stroke="#0d1117" stroke-width="1.5"/>
+<circle class="vertex v-4" cx="223.4" cy="259.2" r="4" fill="#7c9cff" stroke="#0d1117" stroke-width="1.5"/>
+<circle class="vertex v-5" cx="207.7" cy="161.7" r="4" fill="#7c9cff" stroke="#0d1117" stroke-width="1.5"/>
+<text class="label l-0" x="300.0" y="51.0" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="middle" dominant-baseline="middle">Full-Stack (MERN)</text>
+<text class="label l-0" x="300.0" y="65.0" fill="#7c9cff" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">95%</text>
+<text class="label l-1" x="442.0" y="133.0" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="start" dominant-baseline="middle">Backend/APIs</text>
+<text class="label l-1" x="442.0" y="147.0" fill="#7c9cff" font-family="monospace" font-size="11" font-weight="bold" text-anchor="start">92%</text>
+<text class="label l-2" x="442.0" y="297.0" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="start" dominant-baseline="middle">System Design</text>
+<text class="label l-2" x="442.0" y="311.0" fill="#7c9cff" font-family="monospace" font-size="11" font-weight="bold" text-anchor="start">78%</text>
+<text class="label l-3" x="300.0" y="379.0" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="middle" dominant-baseline="middle">DevOps &amp; Infra</text>
+<text class="label l-3" x="300.0" y="393.0" fill="#7c9cff" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">70%</text>
+<text class="label l-4" x="158.0" y="297.0" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="end" dominant-baseline="middle">AI/ML</text>
+<text class="label l-4" x="158.0" y="311.0" fill="#7c9cff" font-family="monospace" font-size="11" font-weight="bold" text-anchor="end">68%</text>
+<text class="label l-5" x="158.0" y="133.0" fill="#8b949e" font-family="monospace" font-size="12" text-anchor="end" dominant-baseline="middle">DSA</text>
+<text class="label l-5" x="158.0" y="147.0" fill="#7c9cff" font-family="monospace" font-size="11" font-weight="bold" text-anchor="end">82%</text>
+<text x="560" y="34" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">Core Tooling Proficiency</text>
+<text x="560" y="60" fill="#c9d1d9" font-family="monospace" font-size="12">JavaScript / TypeScript</text>
+<rect x="560" y="68" width="320" height="8" rx="4" fill="#21262d"/>
+<rect class="bar-fill" x="560" y="68" width="294.4" height="8" rx="4" fill="#f1e05a" style="animation-delay:0.30s"/>
+<text x="880" y="60" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">92%</text>
+<text x="560" y="106" fill="#c9d1d9" font-family="monospace" font-size="12">Node.js / Express</text>
+<rect x="560" y="114" width="320" height="8" rx="4" fill="#21262d"/>
+<rect class="bar-fill" x="560" y="114" width="288.0" height="8" rx="4" fill="#83cd29" style="animation-delay:0.38s"/>
+<text x="880" y="106" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">90%</text>
+<text x="560" y="152" fill="#c9d1d9" font-family="monospace" font-size="12">React.js / Next.js</text>
+<rect x="560" y="160" width="320" height="8" rx="4" fill="#21262d"/>
+<rect class="bar-fill" x="560" y="160" width="281.6" height="8" rx="4" fill="#61dafb" style="animation-delay:0.46s"/>
+<text x="880" y="152" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">88%</text>
+<text x="560" y="198" fill="#c9d1d9" font-family="monospace" font-size="12">Python</text>
+<rect x="560" y="206" width="320" height="8" rx="4" fill="#21262d"/>
+<rect class="bar-fill" x="560" y="206" width="256.0" height="8" rx="4" fill="#3572A5" style="animation-delay:0.54s"/>
+<text x="880" y="198" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">80%</text>
+<text x="560" y="244" fill="#c9d1d9" font-family="monospace" font-size="12">SQL (MSSQL / MySQL)</text>
+<rect x="560" y="252" width="320" height="8" rx="4" fill="#21262d"/>
+<rect class="bar-fill" x="560" y="252" width="249.6" height="8" rx="4" fill="#f29111" style="animation-delay:0.62s"/>
+<text x="880" y="244" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">78%</text>
+<text x="560" y="290" fill="#c9d1d9" font-family="monospace" font-size="12">Docker / Kubernetes</text>
+<rect x="560" y="298" width="320" height="8" rx="4" fill="#21262d"/>
+<rect class="bar-fill" x="560" y="298" width="208.0" height="8" rx="4" fill="#2496ed" style="animation-delay:0.70s"/>
+<text x="880" y="290" fill="#8b949e" font-family="monospace" font-size="11" text-anchor="end">65%</text>
+</svg>
