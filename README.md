@@ -1,36 +1,111 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushspn123&label=Profile%20views&color=0e75b6&style=flat" alt="ayushspn123" /> </p>
+<div align="center">
+  <img src="assets/portrait.svg" alt="Ayush Kumar Dot-Matrix Portrait" width="340" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushspn123" alt="ayushspn123" /></a> </p>
+  <br /><br />
 
-- 🔭 I’m currently working on **React**  **Node**  **NextJs**  **TypeScript**  **MongoDB**
-- - 🔭 I’m currently working As a **FULL Stack Developer**
-  - Also we can Talk About **AI And Automation Models**
+  # Ayush Kumar
+
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&height=36&lines=Full-Stack%20Developer%20(MERN%20%2B%20AI);Building%20Docorio%20%26%20Alpha%20UI;Node.js%20%7C%20React%20%7C%20Python;Shipping%20Products%2C%20Not%20Just%20Code" alt="Typing Subtitle" />
+  </div>
+
+  ### 🚀 Full-Stack Developer &mdash; MERN &amp; AI
+
+  **Full-Stack Developer • Product Builder • AI Enthusiast**
+
+  <br />
+
+  <a href="https://linkedin.com/in/ayushkumar-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=ffffff" height="28" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://docorio.app" target="_blank">
+    <img src="https://img.shields.io/badge/Docorio-161b22?style=for-the-badge&logo=googledocs&logoColor=ffffff" height="28" alt="Docorio"/>
+  </a>
+  &nbsp;
+  <a href="https://alphaui.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Alpha_UI-161b22?style=for-the-badge&logo=react&logoColor=ffffff" height="28" alt="Alpha UI"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ayushvermaspn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=ffffff" height="28" alt="Email"/>
+  </a>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **Full-Stack Developer** at Xcelore Pvt Ltd who cares about shipping products end-to-end — from schema to UI to production monitoring.
+
+* 💼 **Currently:** Building and owning production platforms — KYC onboarding for **Muthoot Finance (MreKYC)** and the **HR.Vaidik** HR platform, used daily by 18+ professionals.
+* ⚡ **Performance-obsessed:** Migrated UI libraries, upgraded frameworks, and optimized API calls for a **60% reduction** in page load time.
+* 🧠 **Building in public:** Creator of **[Docorio](https://docorio.app)** (100+ users, 40+ document tools) and **[Alpha UI](https://alphaui.dev)** (80+ components, adopted by 500+ teams).
+* 🏆 **Competitive builder:** SIH 2023 National Finalist, 2nd place at Hack The November (180+ teams), 400+ problems solved on LeetCode &amp; GFG.
+* 🤝 **Mentor:** Guided 5+ junior developers on Git workflows, architecture, and code review practices.
+
+---
+
+### 📡 Technical Capability &amp; Skills Radar
+
+<div align="center">
+  <img src="assets/skills.svg" alt="Technical Capability &amp; Skill Radar" width="100%" />
+</div>
 
 
-- 👯 I’m looking to collaborate on **JavaScript And TypeScript Projects**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ayushspn123](https://github.com/ayushspn123)
--  Visit PortFolio:  https://v0-software-engineer-portfolio-jbmayu.vercel.app/
+### 🛠️ Core Tooling &amp; Technologies
 
-- 💬 Ask me about **Java Script** **typeScript**
+<div align="center">
 
-- 📫 How to reach me **ayushvermaspn@gmail.com**
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Application Development** | <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express&theme=dark" /> |
+| **AI &amp; Python** | <img src="https://skillicons.dev/icons?i=python,fastapi,flask,sklearn&theme=dark" /> |
+| **Data &amp; Infra** | <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,kubernetes,kafka&theme=dark" /> |
+| **Tools &amp; Platforms** | <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,linux&theme=dark" /> |
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-kumar-162362203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-162362203" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ayush_1505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ayush_1505" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ayushvermaspn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushvermaspn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayushspn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushspn" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayushspn/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushspn/practice/" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushspn123&show_icons=true&locale=en&layout=compact" alt="ayushspn123" /></p>
+### 📈 Activity &amp; Contribution Flow
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushspn123&show_icons=true&locale=en" alt="ayushspn123" /></p>
+<div align="center">
+  <img src="assets/contributions.svg" alt="Activity &amp; Contribution Flow" width="100%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushspn123&" alt="ayushspn123" /></p>
+---
+
+### ⚡ Engineering Showcase &amp; Performance
+
+<div align="center">
+  <img src="assets/bento.svg" alt="Engineering Showcase &amp; Performance" width="100%" />
+</div>
+
+---
+
+### 🎓 Education &amp; Achievements
+
+* 🎓 **B.Tech, Information Technology** — Abes Institute of Technology (2020–2024), CGPA 8.15/10
+* 🏅 **SIH 2023** — Smart India Hackathon National Finalist
+* 🥈 **Hack The November** — 2nd place among 180+ teams
+* 📊 **400+** problems solved on LeetCode &amp; GeeksforGeeks · CodeChef rank 726/14,000+
+
+---
+
+### 🎮 The Human Side
+
+I'm not just a code machine. When the IDE closes, here is who I am:
+
+* 🧩 **Currently building:** Two side products (Docorio &amp; Alpha UI) alongside a full-time role — nights and weekends well spent.
+* 🤖 **Philosophy:** I believe in shipping fast, measuring impact (like that 60% load-time cut), and mentoring the next person up.
+* ☕ **Fuel:** Chai, changelogs, and a genuine love for clean git history.
+
+---
+
+<div align="center">
+  <sub>Let's build something incredible together.</sub>
+</div>
